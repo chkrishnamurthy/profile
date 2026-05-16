@@ -10,7 +10,7 @@ export function Projects() {
         {resume.projects.map((p) => (
           <article
             key={p.name}
-            className="group rounded-2xl border border-[var(--color-line)] bg-white p-6 transition hover:border-[var(--color-ink)]"
+            className="group rounded-2xl border border-[var(--color-line)] bg-[var(--color-surface)] p-6 transition hover:border-[var(--color-ink)]"
           >
             <div className="mb-2 flex flex-wrap items-baseline justify-between gap-2">
               <h3 className="text-lg font-medium text-[var(--color-ink)]">

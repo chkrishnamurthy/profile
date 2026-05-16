@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <section
       id="top"
-      className="mx-auto w-full max-w-3xl scroll-mt-24 px-6 pt-24 pb-12 md:px-8 md:pt-32 md:pb-16"
+      className="mx-auto w-full max-w-6xl scroll-mt-24 px-5 pt-24 pb-12 md:px-6 md:pt-32 md:pb-16"
     >
       <p className="mb-6 inline-flex items-center gap-2 text-sm text-[var(--color-muted)] animate-fade-up">
         <span className="inline-block h-2 w-2 rounded-full bg-green-500" />

@@ -6,7 +6,7 @@ export function Footer() {
       id="contact"
       className="border-t border-[var(--color-line)] bg-[var(--color-paper)]"
     >
-      <div className="mx-auto w-full max-w-3xl px-6 py-16 md:px-8">
+      <div className="mx-auto w-full max-w-6xl px-5 py-16 md:px-6">
         <h2 className="font-serif text-3xl tracking-tight md:text-4xl">
           Let's build something together.
         </h2>
